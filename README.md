@@ -1,7 +1,7 @@
 
 <h3 align="center">Hi there!!! 👋 </h3>
 
-![Bitmoji of ksheera poping out of laptop with some animation and gradient effects as background](https://github.com/Ksheerashetty/Ksheerashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
+![Bitmoji of suprabha poping out of laptop with some animation and gradient effects as background](https://github.com/suprabhashetty/suprabhashetty/assets/65451950/5adddaa6-dae7-432a-9d41-4f5a53327af4)
 
 ---
 ### 💻 Languages and Tools  
